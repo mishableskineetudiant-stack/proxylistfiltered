@@ -1,214 +1,46 @@
 {
-  "updated_at": "2026-02-09T10:54:47.435597Z",
-  "count": 83,
+  "updated_at": "2026-02-09T11:01:03.526994Z",
+  "count": 85,
   "proxies": [
     {
-      "ip": "168.235.110.63",
-      "port": 3128,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.14,
-      "last_checked": "2026-02-09T10:53:35.126284Z"
-    },
-    {
-      "ip": "34.44.49.215",
+      "ip": "172.200.72.48",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.2,
-      "last_checked": "2026-02-09T10:53:35.183829Z"
-    },
-    {
-      "ip": "174.136.204.40",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.24,
-      "last_checked": "2026-02-09T10:53:35.224021Z"
-    },
-    {
-      "ip": "192.73.244.36",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.24,
-      "last_checked": "2026-02-09T10:53:35.244472Z"
-    },
-    {
-      "ip": "87.239.31.42",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.28,
-      "last_checked": "2026-02-09T10:53:35.264115Z"
-    },
-    {
-      "ip": "52.229.30.3",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.38,
-      "last_checked": "2026-02-09T10:53:35.362900Z"
+      "response_time": 0.07,
+      "last_checked": "2026-02-09T10:59:48.597756Z"
     },
     {
       "ip": "172.193.178.226",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.54,
-      "last_checked": "2026-02-09T10:53:35.527780Z"
+      "response_time": 0.21,
+      "last_checked": "2026-02-09T10:59:48.734118Z"
     },
     {
-      "ip": "51.141.175.118",
+      "ip": "87.239.31.42",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.4,
-      "last_checked": "2026-02-09T10:53:35.695124Z"
+      "response_time": 0.27,
+      "last_checked": "2026-02-09T10:59:48.779600Z"
     },
     {
-      "ip": "221.231.13.198",
-      "port": 1080,
+      "ip": "85.208.108.43",
+      "port": 10808,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.88,
-      "last_checked": "2026-02-09T10:53:35.877992Z"
-    },
-    {
-      "ip": "74.176.195.135",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.07,
-      "last_checked": "2026-02-09T10:53:36.080678Z"
+      "response_time": 0.28,
+      "last_checked": "2026-02-09T10:59:48.814672Z"
     },
     {
       "ip": "38.60.196.214",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.31,
-      "last_checked": "2026-02-09T10:53:36.183907Z"
-    },
-    {
-      "ip": "47.56.110.204",
-      "port": 8990,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.29,
-      "last_checked": "2026-02-09T10:53:36.268388Z"
-    },
-    {
-      "ip": "209.38.222.145",
-      "port": 8080,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.33,
-      "last_checked": "2026-02-09T10:53:36.333784Z"
-    },
-    {
-      "ip": "35.202.49.74",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.29,
-      "last_checked": "2026-02-09T10:53:36.374574Z"
-    },
-    {
-      "ip": "97.74.87.226",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.42,
-      "last_checked": "2026-02-09T10:53:36.418698Z"
-    },
-    {
-      "ip": "92.118.115.36",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.16,
-      "last_checked": "2026-02-09T10:53:36.427206Z"
-    },
-    {
-      "ip": "47.74.157.194",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.94,
-      "last_checked": "2026-02-09T10:53:36.466854Z"
-    },
-    {
-      "ip": "66.80.0.115",
-      "port": 3128,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.47,
-      "last_checked": "2026-02-09T10:53:36.467527Z"
-    },
-    {
-      "ip": "198.111.166.184",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.54,
-      "last_checked": "2026-02-09T10:53:36.535749Z"
-    },
-    {
-      "ip": "123.30.154.171",
-      "port": 7777,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.64,
-      "last_checked": "2026-02-09T10:53:36.624919Z"
-    },
-    {
-      "ip": "162.245.85.36",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.11,
-      "last_checked": "2026-02-09T10:53:36.648601Z"
-    },
-    {
-      "ip": "5.161.155.252",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.01,
-      "last_checked": "2026-02-09T10:53:36.656524Z"
-    },
-    {
-      "ip": "39.109.113.97",
-      "port": 4090,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.17,
-      "last_checked": "2026-02-09T10:53:36.663721Z"
-    },
-    {
-      "ip": "120.92.212.16",
-      "port": 7890,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.22,
-      "last_checked": "2026-02-09T10:53:36.786334Z"
-    },
-    {
-      "ip": "61.158.175.38",
-      "port": 9002,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 2.03,
-      "last_checked": "2026-02-09T10:53:37.027028Z"
-    },
-    {
-      "ip": "8.212.177.126",
-      "port": 8080,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.88,
-      "last_checked": "2026-02-09T10:53:37.063567Z"
+      "response_time": 0.35,
+      "last_checked": "2026-02-09T10:59:48.862118Z"
     },
     {
       "ip": "95.216.49.153",
@@ -216,143 +48,111 @@
       "protocol": "http",
       "anonymity": "elite",
       "response_time": 0.4,
-      "last_checked": "2026-02-09T10:53:37.100227Z"
+      "last_checked": "2026-02-09T10:59:48.907154Z"
     },
     {
-      "ip": "81.169.213.169",
-      "port": 8888,
+      "ip": "141.98.153.86",
+      "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.74,
-      "last_checked": "2026-02-09T10:53:37.211069Z"
+      "response_time": 0.42,
+      "last_checked": "2026-02-09T10:59:48.948917Z"
     },
     {
-      "ip": "69.48.201.94",
+      "ip": "35.202.49.74",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
       "response_time": 0.54,
-      "last_checked": "2026-02-09T10:53:37.278569Z"
-    },
-    {
-      "ip": "157.180.118.86",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.4,
-      "last_checked": "2026-02-09T10:53:37.424386Z"
-    },
-    {
-      "ip": "94.176.3.109",
-      "port": 7443,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 2.57,
-      "last_checked": "2026-02-09T10:53:37.569236Z"
+      "last_checked": "2026-02-09T10:59:49.051775Z"
     },
     {
       "ip": "48.210.225.96",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.97,
-      "last_checked": "2026-02-09T10:53:37.632600Z"
+      "response_time": 0.68,
+      "last_checked": "2026-02-09T10:59:49.216451Z"
     },
     {
-      "ip": "4.213.167.178",
+      "ip": "94.176.3.109",
+      "port": 7443,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.78,
+      "last_checked": "2026-02-09T10:59:49.314969Z"
+    },
+    {
+      "ip": "34.44.49.215",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 1.11,
-      "last_checked": "2026-02-09T10:53:38.040577Z"
+      "response_time": 0.8,
+      "last_checked": "2026-02-09T10:59:49.326132Z"
     },
     {
-      "ip": "89.116.88.19",
+      "ip": "51.141.175.118",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 1.57,
-      "last_checked": "2026-02-09T10:53:38.042142Z"
+      "response_time": 0.29,
+      "last_checked": "2026-02-09T10:59:49.339436Z"
     },
     {
-      "ip": "203.19.38.114",
-      "port": 1080,
+      "ip": "97.74.87.226",
+      "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.85,
-      "last_checked": "2026-02-09T10:53:38.483336Z"
+      "response_time": 0.91,
+      "last_checked": "2026-02-09T10:59:49.440417Z"
     },
     {
       "ip": "172.237.73.24",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
+      "response_time": 0.95,
+      "last_checked": "2026-02-09T10:59:49.461358Z"
+    },
+    {
+      "ip": "47.74.157.194",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.99,
+      "last_checked": "2026-02-09T10:59:49.498746Z"
+    },
+    {
+      "ip": "74.176.195.135",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
       "response_time": 0.98,
-      "last_checked": "2026-02-09T10:53:38.552734Z"
+      "last_checked": "2026-02-09T10:59:49.518403Z"
     },
     {
-      "ip": "183.215.23.242",
-      "port": 9091,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.45,
-      "last_checked": "2026-02-09T10:53:38.663790Z"
-    },
-    {
-      "ip": "35.225.22.61",
+      "ip": "8.220.177.199",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.19,
-      "last_checked": "2026-02-09T10:53:38.741854Z"
+      "response_time": 0.99,
+      "last_checked": "2026-02-09T10:59:49.528358Z"
     },
     {
-      "ip": "47.238.128.246",
-      "port": 8081,
+      "ip": "81.169.213.169",
+      "port": 8888,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 3.79,
-      "last_checked": "2026-02-09T10:53:38.786971Z"
+      "response_time": 0.71,
+      "last_checked": "2026-02-09T10:59:49.528655Z"
     },
     {
-      "ip": "45.59.186.60",
-      "port": 80,
+      "ip": "213.73.25.230",
+      "port": 8080,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 1.72,
-      "last_checked": "2026-02-09T10:53:38.996875Z"
-    },
-    {
-      "ip": "94.182.149.92",
-      "port": 2012,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 1.94,
-      "last_checked": "2026-02-09T10:53:39.007205Z"
-    },
-    {
-      "ip": "152.26.229.52",
-      "port": 9443,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.08,
-      "last_checked": "2026-02-09T10:53:39.090968Z"
-    },
-    {
-      "ip": "172.200.72.48",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.1,
-      "last_checked": "2026-02-09T10:53:39.398367Z"
-    },
-    {
-      "ip": "158.160.215.167",
-      "port": 8126,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 3.16,
-      "last_checked": "2026-02-09T10:53:39.812370Z"
+      "response_time": 1.1,
+      "last_checked": "2026-02-09T10:59:49.624565Z"
     },
     {
       "ip": "153.0.171.163",
@@ -360,143 +160,247 @@
       "protocol": "http",
       "anonymity": "elite",
       "response_time": 1.16,
-      "last_checked": "2026-02-09T10:53:40.157177Z"
+      "last_checked": "2026-02-09T10:59:49.671160Z"
     },
     {
-      "ip": "47.56.110.204",
-      "port": 8989,
+      "ip": "221.231.13.198",
+      "port": 1080,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 1.08,
-      "last_checked": "2026-02-09T10:53:40.576406Z"
-    },
-    {
-      "ip": "68.71.40.126",
-      "port": 8080,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 5.56,
-      "last_checked": "2026-02-09T10:53:41.309114Z"
-    },
-    {
-      "ip": "8.220.177.199",
-      "port": 443,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.79,
-      "last_checked": "2026-02-09T10:53:41.393534Z"
-    },
-    {
-      "ip": "8.220.177.199",
-      "port": 8080,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.8,
-      "last_checked": "2026-02-09T10:53:41.591199Z"
-    },
-    {
-      "ip": "222.213.85.99",
-      "port": 9002,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 2.08,
-      "last_checked": "2026-02-09T10:53:42.144528Z"
+      "response_time": 1.19,
+      "last_checked": "2026-02-09T10:59:49.780688Z"
     },
     {
       "ip": "162.223.90.144",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.27,
-      "last_checked": "2026-02-09T10:53:42.416502Z"
+      "response_time": 0.17,
+      "last_checked": "2026-02-09T10:59:49.790486Z"
+    },
+    {
+      "ip": "47.56.110.204",
+      "port": 8989,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.28,
+      "last_checked": "2026-02-09T10:59:49.823029Z"
+    },
+    {
+      "ip": "40.89.145.14",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.38,
+      "last_checked": "2026-02-09T10:59:49.906275Z"
+    },
+    {
+      "ip": "47.56.110.204",
+      "port": 8990,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.26,
+      "last_checked": "2026-02-09T10:59:50.051921Z"
+    },
+    {
+      "ip": "8.212.178.171",
+      "port": 8080,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.54,
+      "last_checked": "2026-02-09T10:59:50.065964Z"
+    },
+    {
+      "ip": "5.161.155.252",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.8,
+      "last_checked": "2026-02-09T10:59:50.120263Z"
     },
     {
       "ip": "95.179.242.209",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.46,
-      "last_checked": "2026-02-09T10:53:42.880558Z"
+      "response_time": 1.24,
+      "last_checked": "2026-02-09T10:59:50.149826Z"
     },
     {
-      "ip": "4.213.98.253",
+      "ip": "203.19.38.114",
+      "port": 1080,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.86,
+      "last_checked": "2026-02-09T10:59:50.203571Z"
+    },
+    {
+      "ip": "116.171.106.78",
+      "port": 3000,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.7,
+      "last_checked": "2026-02-09T10:59:50.214217Z"
+    },
+    {
+      "ip": "85.208.108.43",
+      "port": 2094,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.77,
+      "last_checked": "2026-02-09T10:59:50.402083Z"
+    },
+    {
+      "ip": "154.65.39.8",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 1.79,
-      "last_checked": "2026-02-09T10:53:42.924123Z"
+      "response_time": 2.08,
+      "last_checked": "2026-02-09T10:59:50.606949Z"
     },
     {
-      "ip": "137.184.96.68",
+      "ip": "160.251.142.232",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 4.51,
-      "last_checked": "2026-02-09T10:53:43.603006Z"
+      "response_time": 0.85,
+      "last_checked": "2026-02-09T10:59:50.757600Z"
     },
     {
-      "ip": "175.138.231.145",
+      "ip": "152.26.229.52",
+      "port": 9443,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.28,
+      "last_checked": "2026-02-09T10:59:50.760586Z"
+    },
+    {
+      "ip": "89.116.88.19",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 1.78,
-      "last_checked": "2026-02-09T10:53:44.702594Z"
+      "response_time": 0.81,
+      "last_checked": "2026-02-09T10:59:50.872812Z"
+    },
+    {
+      "ip": "113.108.13.120",
+      "port": 8083,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 2.13,
+      "last_checked": "2026-02-09T10:59:51.079333Z"
+    },
+    {
+      "ip": "193.47.60.119",
+      "port": 52681,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 2.56,
+      "last_checked": "2026-02-09T10:59:51.082656Z"
+    },
+    {
+      "ip": "195.26.224.135",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.41,
+      "last_checked": "2026-02-09T10:59:51.457383Z"
+    },
+    {
+      "ip": "69.48.201.94",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.68,
+      "last_checked": "2026-02-09T10:59:51.763790Z"
+    },
+    {
+      "ip": "61.158.175.38",
+      "port": 9002,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.02,
+      "last_checked": "2026-02-09T10:59:51.777418Z"
+    },
+    {
+      "ip": "8.220.149.222",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.68,
+      "last_checked": "2026-02-09T10:59:51.828692Z"
+    },
+    {
+      "ip": "45.151.182.9",
+      "port": 3128,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 2.23,
+      "last_checked": "2026-02-09T10:59:52.012826Z"
+    },
+    {
+      "ip": "8.220.205.172",
+      "port": 8081,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 2.4,
+      "last_checked": "2026-02-09T10:59:52.226174Z"
+    },
+    {
+      "ip": "4.213.167.178",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.12,
+      "last_checked": "2026-02-09T10:59:52.949914Z"
+    },
+    {
+      "ip": "94.182.149.92",
+      "port": 2012,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.78,
+      "last_checked": "2026-02-09T10:59:53.038072Z"
+    },
+    {
+      "ip": "8.220.205.172",
+      "port": 1234,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 2.36,
+      "last_checked": "2026-02-09T10:59:55.401425Z"
+    },
+    {
+      "ip": "41.217.220.61",
+      "port": 32650,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 6.12,
+      "last_checked": "2026-02-09T10:59:55.584644Z"
+    },
+    {
+      "ip": "174.138.119.88",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.27,
+      "last_checked": "2026-02-09T10:59:56.690681Z"
     },
     {
       "ip": "116.171.106.15",
       "port": 3000,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 3.9,
-      "last_checked": "2026-02-09T10:53:45.290143Z"
-    },
-    {
-      "ip": "120.92.212.16",
-      "port": 8890,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.97,
-      "last_checked": "2026-02-09T10:53:45.978983Z"
-    },
-    {
-      "ip": "185.85.111.18",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.64,
-      "last_checked": "2026-02-09T10:53:46.019184Z"
-    },
-    {
-      "ip": "120.92.211.211",
-      "port": 7890,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 2.49,
-      "last_checked": "2026-02-09T10:53:46.096417Z"
-    },
-    {
-      "ip": "141.98.153.86",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.74,
-      "last_checked": "2026-02-09T10:53:46.145604Z"
+      "response_time": 1.18,
+      "last_checked": "2026-02-09T10:59:56.767621Z"
     },
     {
       "ip": "165.227.118.27",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.09,
-      "last_checked": "2026-02-09T10:53:46.367168Z"
-    },
-    {
-      "ip": "202.133.88.173",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 5.09,
-      "last_checked": "2026-02-09T10:53:46.395824Z"
+      "response_time": 6.23,
+      "last_checked": "2026-02-09T10:59:57.100571Z"
     },
     {
       "ip": "178.212.144.7",
@@ -504,103 +408,247 @@
       "protocol": "http",
       "anonymity": "elite",
       "response_time": 0.23,
-      "last_checked": "2026-02-09T10:53:46.575974Z"
+      "last_checked": "2026-02-09T10:59:57.446000Z"
     },
     {
-      "ip": "40.89.145.14",
+      "ip": "5.180.180.32",
+      "port": 1080,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 6.48,
+      "last_checked": "2026-02-09T10:59:57.469703Z"
+    },
+    {
+      "ip": "35.225.22.61",
       "port": 80,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.75,
-      "last_checked": "2026-02-09T10:53:46.891682Z"
+      "response_time": 0.11,
+      "last_checked": "2026-02-09T10:59:57.578983Z"
     },
     {
-      "ip": "59.46.216.131",
-      "port": 30001,
+      "ip": "120.92.212.16",
+      "port": 7890,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 2.23,
-      "last_checked": "2026-02-09T10:53:46.935734Z"
+      "response_time": 1.99,
+      "last_checked": "2026-02-09T10:59:57.750418Z"
     },
     {
-      "ip": "213.73.25.230",
+      "ip": "8.220.149.222",
       "port": 8080,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.63,
-      "last_checked": "2026-02-09T10:53:47.202002Z"
+      "response_time": 0.67,
+      "last_checked": "2026-02-09T10:59:57.774754Z"
+    },
+    {
+      "ip": "188.130.160.209",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 3.04,
+      "last_checked": "2026-02-09T10:59:58.638923Z"
+    },
+    {
+      "ip": "52.229.30.3",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.85,
+      "last_checked": "2026-02-09T10:59:58.850009Z"
+    },
+    {
+      "ip": "175.138.231.145",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 2.43,
+      "last_checked": "2026-02-09T10:59:59.116130Z"
+    },
+    {
+      "ip": "160.248.7.177",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 3.84,
+      "last_checked": "2026-02-09T10:59:59.246166Z"
+    },
+    {
+      "ip": "174.136.204.40",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.28,
+      "last_checked": "2026-02-09T10:59:59.380529Z"
+    },
+    {
+      "ip": "192.73.244.36",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.34,
+      "last_checked": "2026-02-09T10:59:59.477391Z"
+    },
+    {
+      "ip": "157.180.118.86",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.48,
+      "last_checked": "2026-02-09T10:59:59.598122Z"
+    },
+    {
+      "ip": "198.111.166.184",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.22,
+      "last_checked": "2026-02-09T10:59:59.905873Z"
+    },
+    {
+      "ip": "222.213.85.99",
+      "port": 9002,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.02,
+      "last_checked": "2026-02-09T11:00:00.476479Z"
+    },
+    {
+      "ip": "116.171.106.111",
+      "port": 3000,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.68,
+      "last_checked": "2026-02-09T11:00:00.494999Z"
+    },
+    {
+      "ip": "39.109.113.97",
+      "port": 4090,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.55,
+      "last_checked": "2026-02-09T11:00:01.029255Z"
+    },
+    {
+      "ip": "113.108.13.120",
+      "port": 4433,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.44,
+      "last_checked": "2026-02-09T11:00:01.250087Z"
+    },
+    {
+      "ip": "45.59.186.60",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.73,
+      "last_checked": "2026-02-09T11:00:01.757892Z"
+    },
+    {
+      "ip": "158.160.215.167",
+      "port": 8124,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.98,
+      "last_checked": "2026-02-09T11:00:02.473313Z"
+    },
+    {
+      "ip": "162.245.85.36",
+      "port": 80,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 0.72,
+      "last_checked": "2026-02-09T11:00:02.560616Z"
     },
     {
       "ip": "36.138.53.26",
       "port": 10017,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 2.06,
-      "last_checked": "2026-02-09T10:53:47.289277Z"
+      "response_time": 2.35,
+      "last_checked": "2026-02-09T11:00:02.984512Z"
     },
     {
-      "ip": "163.172.167.48",
-      "port": 80,
+      "ip": "183.215.23.242",
+      "port": 9091,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.43,
-      "last_checked": "2026-02-09T10:53:47.326213Z"
+      "response_time": 1.87,
+      "last_checked": "2026-02-09T11:00:03.165629Z"
     },
     {
-      "ip": "217.217.254.94",
-      "port": 8080,
+      "ip": "142.171.131.38",
+      "port": 7890,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 5.28,
-      "last_checked": "2026-02-09T10:53:48.164576Z"
+      "response_time": 3.7,
+      "last_checked": "2026-02-09T11:00:04.046785Z"
+    },
+    {
+      "ip": "165.227.5.10",
+      "port": 8888,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 4.02,
+      "last_checked": "2026-02-09T11:00:04.110760Z"
+    },
+    {
+      "ip": "123.30.154.171",
+      "port": 7777,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.15,
+      "last_checked": "2026-02-09T11:00:04.298278Z"
+    },
+    {
+      "ip": "121.230.8.236",
+      "port": 1080,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 1.86,
+      "last_checked": "2026-02-09T11:00:04.420107Z"
+    },
+    {
+      "ip": "120.92.212.16",
+      "port": 8890,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 2.04,
+      "last_checked": "2026-02-09T11:00:04.819322Z"
     },
     {
       "ip": "120.238.159.230",
       "port": 22222,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 0.76,
-      "last_checked": "2026-02-09T10:53:48.280895Z"
+      "response_time": 2.17,
+      "last_checked": "2026-02-09T11:00:05.932334Z"
     },
     {
-      "ip": "167.99.236.14",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 2.23,
-      "last_checked": "2026-02-09T10:53:48.714626Z"
-    },
-    {
-      "ip": "183.249.5.109",
+      "ip": "223.113.134.57",
       "port": 22222,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 2.11,
-      "last_checked": "2026-02-09T10:53:50.829778Z"
+      "response_time": 1.44,
+      "last_checked": "2026-02-09T11:00:06.180794Z"
     },
     {
-      "ip": "38.43.158.7",
+      "ip": "144.124.227.90",
+      "port": 10880,
+      "protocol": "http",
+      "anonymity": "elite",
+      "response_time": 3.24,
+      "last_checked": "2026-02-09T11:00:06.320494Z"
+    },
+    {
+      "ip": "8.220.205.172",
       "port": 8080,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 3.69,
-      "last_checked": "2026-02-09T10:53:51.016588Z"
-    },
-    {
-      "ip": "117.159.239.55",
-      "port": 22222,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 2.11,
-      "last_checked": "2026-02-09T10:53:51.279518Z"
-    },
-    {
-      "ip": "47.238.130.212",
-      "port": 8081,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 2.45,
-      "last_checked": "2026-02-09T10:53:53.040470Z"
+      "response_time": 2.83,
+      "last_checked": "2026-02-09T11:00:06.910058Z"
     },
     {
       "ip": "185.187.92.42",
@@ -608,63 +656,31 @@
       "protocol": "http",
       "anonymity": "elite",
       "response_time": 0.27,
-      "last_checked": "2026-02-09T10:54:06.265790Z"
-    },
-    {
-      "ip": "47.250.177.202",
-      "port": 3128,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 2.97,
-      "last_checked": "2026-02-09T10:54:06.627843Z"
+      "last_checked": "2026-02-09T11:00:21.085654Z"
     },
     {
       "ip": "191.252.204.220",
       "port": 8080,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 2.12,
-      "last_checked": "2026-02-09T10:54:18.354933Z"
-    },
-    {
-      "ip": "176.126.164.213",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.69,
-      "last_checked": "2026-02-09T10:54:26.748505Z"
-    },
-    {
-      "ip": "139.162.200.213",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 0.36,
-      "last_checked": "2026-02-09T10:54:27.787130Z"
+      "response_time": 1.02,
+      "last_checked": "2026-02-09T11:00:32.542252Z"
     },
     {
       "ip": "112.93.118.61",
       "port": 3128,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 1.42,
-      "last_checked": "2026-02-09T10:54:27.969927Z"
-    },
-    {
-      "ip": "103.253.43.144",
-      "port": 80,
-      "protocol": "http",
-      "anonymity": "elite",
-      "response_time": 4.19,
-      "last_checked": "2026-02-09T10:54:32.782358Z"
+      "response_time": 1.04,
+      "last_checked": "2026-02-09T11:00:43.208373Z"
     },
     {
       "ip": "36.138.53.26",
       "port": 10019,
       "protocol": "http",
       "anonymity": "elite",
-      "response_time": 1.52,
-      "last_checked": "2026-02-09T10:54:38.034528Z"
+      "response_time": 1.18,
+      "last_checked": "2026-02-09T11:00:53.509045Z"
     }
   ]
 }
